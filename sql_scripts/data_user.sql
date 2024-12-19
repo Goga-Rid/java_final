@@ -1,0 +1,16 @@
+INSERT INTO users (name, email) VALUES
+    ('Alice', 'alice.johnson@example.com'),
+    ('Bob', 'bob.smith@example.com'),
+    ('Charlie', 'charlie.brown@example.com'),
+    ('Diana', 'diana.prince@example.com'),
+    ('Edward', 'edward.norton@example.com'),
+    ('Fiona', 'fiona.apple@example.com'),
+    ('George', 'george.clooney@example.com'),
+    ('Hannah', 'hannah.montana@example.com'),
+    ('Ian', 'ian.somerhalder@example.com'),
+    ('Julia', 'julia.roberts@example.com'),
+    ('Kevin', 'kevin.spacey@example.com'),
+    ('Laura', 'laura.dern@example.com'),
+    ('Michael', 'michael.jackson@example.com'),
+    ('Nina', 'nina.dobrev@example.com'),
+    ('Oscar', 'oscar.wilde@example.com');
